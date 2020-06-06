@@ -8,7 +8,7 @@ yapf = "*"
 django-debug-toolbar = "*"
 
 [packages]
-django = "==2.2.10"
+django = "==2.2.13"
 python-decouple = "*"
 
 [requires]
